@@ -4,7 +4,14 @@ A fullstack application for analyzing MTN Mobile Money SMS transaction data as p
 
 ## 🎥 Assignment Video Demo
 
-[5-minute walkthrough video demonstrating the system functionality]
+📹 **[Watch the 5-minute system demonstration](https://youtu.be/XQV4SM-INzc)**
+
+This video showcases:
+- Complete application setup and database initialization
+- SMS data processing and categorization demonstration
+- Interactive dashboard features and filtering capabilities
+- Real-time analytics and data visualization
+- Mobile responsiveness and user experience
 
 ## 📋 Assignment Requirements Fulfilled
 

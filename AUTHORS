@@ -1,0 +1,42 @@
+# Authors
+
+This project was developed by the following team members:
+
+## Team Lead & Full-Stack Developer
+**Christian Tonny Iradukunda** - ChristianTonny
+- Email: g.iradukund1@alustudent.com
+- Role: Project setup, integration, backend/frontend development, deployment
+- Contributions: Database design, API development, frontend implementation, project coordination
+
+## Frontend Developer
+**HAMED ALFATIH** - hd77alu
+- Email: h.abdalgade@alustudent.com
+- Role: UI/UX development, responsive design
+- Contributions: Dashboard UI enhancements, responsive design improvements
+
+## Backend Developer
+**Brian Gatanazi** - BrianGatanazi
+- Role: API development, database architecture
+- Contributions: Database schema design, backend API endpoints
+
+## Data Engineer
+**Bakhit Tidjani Mahamat** - BakhitTidjani
+- Role: Data processing, XML parsing, analytics
+- Contributions: SMS data processing engine, transaction categorization algorithms
+
+---
+
+### Project Information
+**Project:** MTN Mobile Money SMS Transaction Analysis Dashboard
+**Course:** Fullstack Development
+**Institution:** African Leadership University
+**Year:** 2025
+
+### Development Timeline
+- **Setup & Foundation:** June 12, 2025
+- **Core Development:** June 12-13, 2025
+- **Integration & Testing:** June 13-15, 2025
+- **Documentation:** June 15, 2025
+
+### Acknowledgments
+Special thanks to MTN Rwanda for providing the SMS transaction data that made this comprehensive analysis possible. 
